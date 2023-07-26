@@ -39,7 +39,7 @@ class Solution:
     def find_longest_increasing_subsequence(self, arr):
             #type arr: list of int
             #return type: int
-            
+            print(arr)
             #TODO: Write code below to return an int with the solution to the prompt.
             longest = 1
             last = arr[0]
